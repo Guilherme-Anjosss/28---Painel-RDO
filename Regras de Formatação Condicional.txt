@@ -1,0 +1,110 @@
+Rend Cortes S/CMS
+>= 0 < 0,0,063109 vermelho
+>= 0,63109 < 0,6643 amarelo
+>= 0,6643 < max verde
+
+Coxa e sobre
+>= 0 < 0,2517 vermelho
+>= 0,2517 < 0,265 amarelo
+>= 0,265 < max verde
+
+File
+>= 0 < 0,2517 vermelho
+>= 0,2517 < 0,265 amarelo
+>= 0,265 < max verde
+
+Cartilagem
+sem formatação
+
+Coxinha 
+>= 0 < 0,0437 vermelho
+>= 0,0437 < 0,046 amarelo
+>= 0,046 < max verde
+
+Meio
+>= 0 < 0,0266 vermelho
+>= 0,0266 < 0,028 amarelo
+>= 0,028 < max verde
+
+Ponta
+sem formatação
+
+Fígado
+>= 0 < 0,0152 vermelho
+>= 0,0152 < 0,016 amarelo
+>= 0,016 < max verde
+
+Moela
+>= 0 < 0,01045 vermelho
+>= 0,01045 < 0,011 amarelo
+>= 0,011 < max verde
+
+Coração
+>= 0 < 0,00456 vermelho
+>= 0,00456 < 0,0048 amarelo
+>= 0,0048 < max verde
+
+Pes
+>= 0 < 0,02708 vermelho
+>= 0,02708 < 0,0285 amarelo
+>= 0,0285 < max verde
+
+Sambiquira
+>= 0 < 0,0076 vermelho
+>= 0,0076 < 0,008 amarelo
+>= 0,008 < max verde
+
+CMS
+>= 0 < 0,152 vermelho
+>= 0,152 < 0,16 amarelo
+>= 0,16 < max verde
+
+Utilização
+>= 0 < 0,94525 vermelho
+>= 0,94525 < 0,995 amarelo
+>= 0,995 < max verde
+
+Eficiência
+>= 0 < 0,95 vermelho
+>= 0,95 < 1 amarelo
+>= 1 < max verde
+
+Produtividade
+>= 0 < 0,94525 vermelho
+>= 0,94525 < 0,995 amarelo
+>= 0,995 < max verde
+
+Mortalidade
+>= 0 <= 0,0018 verde
+> 0,0018 < 0,0018 amarelo
+>= 0,0018 < max vermelho
+
+Atendimento orçamento
+>= 0 < 0,95 vermelho
+>= 0,95 < 1 amarelo
+>= 1 < max verde
+
+Rendimento Industrial (RI)
+>= 0 < 0,78375 vermelho
+>= 0,78375 < 0,825 amarelo
+>= 0,825 < max verde
+
+OEE RI
+>= 0 < 0,779 vermelho
+>= 0,779 < 0,82 amarelo
+>= 0,82 < max verde
+
+Rendimento Cortes + CMS (RCC)
+>= 0 < 0,79952 vermelho
+>= 0,79552 < 0,8416 amarelo
+>= 0,8416 < max verde
+
+OEE RCC
+>= 0 < 0,79553 vermelho
+>= 0,79553 < 0,8374 amarelo
+>= 0,8374 < max verde
+
+CORES
+vermelho #FA0000
+amarelo #FAFA00
+verde #009600
